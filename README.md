@@ -1,1 +1,1 @@
-# JustAppGoogleCourse
+# JustApp
