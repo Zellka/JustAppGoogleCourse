@@ -1,1 +1,1 @@
-# JustApp
+# Udacity Project
